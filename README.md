@@ -12,7 +12,3 @@ The project is available at: [https://bmi-calculator2.vercel.app/](https://bmi-c
 <div align="center">
 <img src="./.github/gif.gif" alt="project-gif">
 </div>
-
-<div align="center">
-<img src="./.github/image.png">
-</div>
