@@ -10,5 +10,7 @@ Those techniques include:
 The project is available at: [https://bmi-calculator2.vercel.app/](https://bmi-calculator2.vercel.app/)
 
 ![project-image](./.github/image.png)
-![project-gif](./.github/gif.gif)
 
+<center>
+![project-gif](./.github/gif.gif)
+</center>
