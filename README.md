@@ -7,7 +7,8 @@ Those techniques include:
 - Creating multiple functions and variables, and linking with querySelector to the HTML id's and classes.
 - More responsiveness to multiple platforms, and and with greater use of accessibility.
 
-The project is available at: [Link](https://bmi-calculator2.vercel.app/)
+The project is available at: [https://bmi-calculator2.vercel.app/](https://bmi-calculator2.vercel.app/)
+
 ![project-image](./.github/image.png)
 ![project-gif](./.github/gif.gif)
 
