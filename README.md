@@ -9,8 +9,10 @@ Those techniques include:
 
 The project is available at: [https://bmi-calculator2.vercel.app/](https://bmi-calculator2.vercel.app/)
 
-![project-image](./.github/image.png)
+<div align="center">
+<img src="./.github/image.png">
+</div>
 
 <div align="center">
-![project-gif](./.github/gif.gif)
+<img src="./.github/gif.gif" alt="project-gif">
 </div>
