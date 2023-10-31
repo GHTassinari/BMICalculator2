@@ -5,3 +5,9 @@ Those techniques include:
 - Exporting and importing other scripts to a javascript module.
 - Using CSS and responsiveness to built a new site for the program.
 - Creating multiple functions and variables, and linking with querySelector to the HTML id's and classes.
+- More responsiveness to multiple platforms, and and with greater use of accessibility.
+
+The project is available at: [Link](https://bmi-calculator2.vercel.app/)
+![project-image](./.github/image.png)
+![project-gif](./.github/gif.gif)
+
